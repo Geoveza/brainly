@@ -1,12 +1,12 @@
 {
-    "name": "ammarfaizi2/brainly",
+    "name": "Geoveza/brainly",
     "description": "Brainly",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ammar Faizi",
-            "email": "ammarfaizi2@gmail.com"
+            "name": "Geoveza",
+            "email": "halo@geoveza.me"
         }
     ],
     "minimum-stability": "stable",
